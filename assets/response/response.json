@@ -1,0 +1,64 @@
+{
+  "medias": [
+    {
+      "id": "1",
+      "caption": "photo1",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo1.jpg",
+      "type": "image"
+    },
+    {
+      "id": "2",
+      "caption": "photo2",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo2.jpg",
+      "type": "image"
+    },
+    {
+      "id": "3",
+      "caption": "photo3",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo3.jpg",
+      "type": "image"
+    },
+    {
+      "id": "4",
+      "caption": "photo4",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo4.jpg",
+      "type": "image"
+    },
+    {
+      "id": "5",
+      "caption": "photo5",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo5.jpg",
+      "type": "image"
+    },
+    {
+      "id": "6",
+      "caption": "photo6",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo6.jpg",
+      "type": "image"
+    },
+    {
+      "id": "7",
+      "caption": "photo7",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo7.jpg",
+      "type": "image"
+    },
+    {
+      "id": "8",
+      "caption": "photo8",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo8.jpg",
+      "type": "image"
+    },
+    {
+      "id": "9",
+      "caption": "photo9",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo9.jpg",
+      "type": "image"
+    },
+    {
+      "id": "10",
+      "caption": "photo10",
+      "url": "https://raw.githubusercontent.com/fluttermtl/instreal-assets/main/assets/media/photo10.jpg",
+      "type": "image"
+    }
+  ]
+}
